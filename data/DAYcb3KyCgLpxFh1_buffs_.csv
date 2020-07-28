@@ -1,0 +1,4 @@
+ability,source,sourceIsFriendly,targetID,targetIsFriendly,timestamp,type
+"{'name': 'Prayer of Fortitude', 'guid': 21564, 'type': 2, 'abilityIcon': 'spell_holy_prayeroffortitude.jpg'}","{'name': 'Inferus', 'id': 25, 'guid': 27323637, 'type': 'Unknown', 'icon': 'Unknown'}",0.0,22.0,1.0,0.0,removebuff
+"{'name': 'Prayer of Spirit', 'guid': 27681, 'type': 2, 'abilityIcon': 'spell_holy_prayerofspirit.jpg'}","{'name': 'Inferus', 'id': 25, 'guid': 27323637, 'type': 'Unknown', 'icon': 'Unknown'}",0.0,22.0,1.0,0.0,removebuff
+"{'name': 'Arcane Brilliance', 'guid': 23028, 'type': 64, 'abilityIcon': 'spell_holy_arcaneintellect.jpg'}","{'name': 'Mizzu', 'id': 26, 'guid': 29439767, 'type': 'Unknown', 'icon': 'Unknown'}",0.0,22.0,1.0,0.0,removebuff

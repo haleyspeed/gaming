@@ -1,0 +1,2 @@
+ability,amount,armor,attackPower,classResources,facing,hitPoints,hitType,itemLevel,mapID,maxHitPoints,mitigated,resourceActor,sourceID,sourceIsFriendly,spellPower,targetID,targetIsFriendly,timestamp,type,unmitigatedAmount,x,y
+"{'name': 'Shoot Bow', 'guid': 2480, 'type': 1, 'abilityIcon': 'ability_marksmanship.jpg'}",116.0,0.0,0.0,"[{'amount': 0, 'max': 0, 'type': -1}]",228.0,100.0,1.0,63.0,0.0,100.0,62.0,2.0,21.0,1.0,0.0,27.0,0.0,0.0,damage,178.0,138008.0,-1229188.0

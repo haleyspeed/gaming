@@ -1,0 +1,10 @@
+boss,bossPercentage,difficulty,end_time,fightPercentage,hasWorldBuffs,id,kill,lastPhaseForPercentageDisplay,maps,name,partial,size,start_time,time_to_kill
+785.0,0.0,3.0,00H:02M:05S,0.0,1.0,1.0,1.0,0.0,[],High Priestess Jeklik,3.0,20.0,00H:00M:00S,00H:02M:05S
+784.0,0.0,3.0,00H:09M:23S,0.0,1.0,2.0,1.0,0.0,[],High Priest Venoxis,3.0,20.0,00H:07M:50S,00H:01M:32S
+786.0,0.0,3.0,00H:17M:02S,0.0,1.0,3.0,1.0,0.0,[],High Priestess Mar'li,2.0,20.0,00H:15M:34S,00H:01M:27S
+787.0,0.0,3.0,00H:31M:38S,0.0,1.0,4.0,1.0,0.0,[],Bloodlord Mandokir,2.0,20.0,00H:29M:23S,00H:02M:14S
+789.0,0.0,3.0,00H:44M:32S,0.0,1.0,5.0,1.0,0.0,[],High Priest Thekal,3.0,20.0,00H:42M:23S,00H:02M:09S
+790.0,0.0,3.0,00H:49M:59S,0.0,1.0,6.0,1.0,0.0,[],Gahz'ranka,3.0,20.0,00H:48M:45S,00H:01M:14S
+791.0,0.0,3.0,00H:57M:31S,0.0,1.0,7.0,1.0,0.0,[],High Priestess Arlokk,3.0,20.0,00H:55M:34S,00H:01M:57S
+792.0,0.0,3.0,01H:07M:46S,0.0,1.0,8.0,1.0,0.0,[],Jin'do the Hexxer,3.0,20.0,01H:06M:12S,00H:01M:33S
+793.0,0.0,3.0,01H:22M:48S,0.0,1.0,9.0,1.0,0.0,[],Hakkar,2.0,20.0,01H:19M:02S,00H:03M:45S

@@ -1,0 +1,51 @@
+fights,guid,icon,id,name,type
+"[{'id': 7, 'instances': 1, 'groups': 2}]",14515.0,custom-icon-ability_whirlwind,63.0,High Priestess Arlokk,Boss
+"[{'id': 8, 'instances': 10, 'groups': 1}]",14826.0,NPC,69.0,Sacrificed Troll,NPC
+"[{'id': 2, 'instances': 1}]",14507.0,custom-icon-spell_holy_searinglight,40.0,High Priest Venoxis,Boss
+"[{'id': 3, 'instances': 1}]",14881.0,NPC,48.0,Spider,NPC
+"[{'id': 1, 'instances': 2, 'groups': 1}]",14750.0,custom-icon-spell_fire_meteorstorm,38.0,Gurubashi Bat Rider,NPC
+"[{'id': 4, 'instances': 1}]",11382.0,custom-icon-ability_whirlwind,50.0,Bloodlord Mandokir,Boss
+"[{'id': 3, 'instances': 6, 'groups': 2}]",15041.0,custom-icon-spell_nature_corrosivebreath,46.0,Spawn of Mar'li,NPC
+"[{'id': 1, 'instances': 1}]",14517.0,custom-icon-ability_racial_cannibalize,27.0,High Priestess Jeklik,Boss
+"[{'id': 3, 'instances': 1}]",11388.0,NPC,44.0,Witherbark Speaker,NPC
+"[{'id': 3, 'instances': 1}]",14510.0,custom-icon-spell_nature_corrosivebreath,45.0,High Priestess Mar'li,Boss
+"[{'id': 9, 'instances': 2}]",11357.0,custom-icon-ability_golemthunderclap,75.0,Son of Hakkar,NPC
+"[{'id': 8, 'instances': 11, 'groups': 1}]",14986.0,custom-icon-spell_shadow_shadowbolt,71.0,Shade of Jin'do,NPC
+"[{'id': 8, 'instances': 1}]",11380.0,custom-icon-spell_shadow_unholyfrenzy,67.0,Jin'do the Hexxer,Boss
+"[{'id': 4, 'instances': 1}]",14988.0,custom-icon-ability_warrior_sunder,51.0,Ohgan,NPC
+"[{'id': 2, 'instances': 2}]",2914.0,NPC,43.0,Snake,NPC
+"[{'id': 9, 'instances': 1}]",14834.0,custom-icon-spell_shadow_corpseexplode,74.0,Hakkar,Boss
+"[{'id': 5, 'instances': 1}]",11348.0,custom-icon-ability_rogue_slicedice,56.0,Zealot Zath,NPC
+"[{'id': 6, 'instances': 2}]",14122.0,custom-icon-spell_frost_summonwaterelemental,62.0,Massive Geyser,NPC
+"[{'id': 5, 'instances': 1}]",11347.0,custom-icon-spell_nature_lightningshield,55.0,Zealot Lor'Khan,NPC
+"[{'id': 7, 'instances': 41, 'groups': 1}]",15101.0,custom-icon-ability_ghoulfrenzy,66.0,Zulian Prowler,NPC
+"[{'id': 5, 'instances': 1}]",14509.0,custom-icon-inv_gauntlets_31,54.0,High Priest Thekal,Boss
+"[{'id': 1, 'instances': 8, 'groups': 1}]",14965.0,NPC,37.0,Frenzied Bloodseeker Bat,NPC
+"[{'id': 6, 'instances': 1}]",15114.0,custom-icon-ability_devour,61.0,Gahz'ranka,Boss
+"[{'id': 2, 'instances': 4, 'groups': 1}]",11373.0,custom-icon-spell_nature_corrosivebreath,41.0,Razzashi Cobra,NPC
+"[{'id': 5, 'instances': 2, 'groups': 1}]",166359.0,NPC,57.0,Zulian Tiger,NPC
+"[{'id': 7, 'instances': 1, 'groups': 2}]",14515.0,custom-icon-ability_whirlwind,63.0,High Priestess Arlokk,Boss
+"[{'id': 8, 'instances': 10, 'groups': 1}]",14826.0,NPC,69.0,Sacrificed Troll,NPC
+"[{'id': 2, 'instances': 1}]",14507.0,custom-icon-spell_holy_searinglight,40.0,High Priest Venoxis,Boss
+"[{'id': 3, 'instances': 1}]",14881.0,NPC,48.0,Spider,NPC
+"[{'id': 1, 'instances': 2, 'groups': 1}]",14750.0,custom-icon-spell_fire_meteorstorm,38.0,Gurubashi Bat Rider,NPC
+"[{'id': 4, 'instances': 1}]",11382.0,custom-icon-ability_whirlwind,50.0,Bloodlord Mandokir,Boss
+"[{'id': 3, 'instances': 6, 'groups': 2}]",15041.0,custom-icon-spell_nature_corrosivebreath,46.0,Spawn of Mar'li,NPC
+"[{'id': 1, 'instances': 1}]",14517.0,custom-icon-ability_racial_cannibalize,27.0,High Priestess Jeklik,Boss
+"[{'id': 3, 'instances': 1}]",11388.0,NPC,44.0,Witherbark Speaker,NPC
+"[{'id': 3, 'instances': 1}]",14510.0,custom-icon-spell_nature_corrosivebreath,45.0,High Priestess Mar'li,Boss
+"[{'id': 9, 'instances': 2}]",11357.0,custom-icon-ability_golemthunderclap,75.0,Son of Hakkar,NPC
+"[{'id': 8, 'instances': 11, 'groups': 1}]",14986.0,custom-icon-spell_shadow_shadowbolt,71.0,Shade of Jin'do,NPC
+"[{'id': 8, 'instances': 1}]",11380.0,custom-icon-spell_shadow_unholyfrenzy,67.0,Jin'do the Hexxer,Boss
+"[{'id': 4, 'instances': 1}]",14988.0,custom-icon-ability_warrior_sunder,51.0,Ohgan,NPC
+"[{'id': 2, 'instances': 2}]",2914.0,NPC,43.0,Snake,NPC
+"[{'id': 9, 'instances': 1}]",14834.0,custom-icon-spell_shadow_corpseexplode,74.0,Hakkar,Boss
+"[{'id': 5, 'instances': 1}]",11348.0,custom-icon-ability_rogue_slicedice,56.0,Zealot Zath,NPC
+"[{'id': 6, 'instances': 2}]",14122.0,custom-icon-spell_frost_summonwaterelemental,62.0,Massive Geyser,NPC
+"[{'id': 5, 'instances': 1}]",11347.0,custom-icon-spell_nature_lightningshield,55.0,Zealot Lor'Khan,NPC
+"[{'id': 7, 'instances': 41, 'groups': 1}]",15101.0,custom-icon-ability_ghoulfrenzy,66.0,Zulian Prowler,NPC
+"[{'id': 5, 'instances': 1}]",14509.0,custom-icon-inv_gauntlets_31,54.0,High Priest Thekal,Boss
+"[{'id': 1, 'instances': 8, 'groups': 1}]",14965.0,NPC,37.0,Frenzied Bloodseeker Bat,NPC
+"[{'id': 6, 'instances': 1}]",15114.0,custom-icon-ability_devour,61.0,Gahz'ranka,Boss
+"[{'id': 2, 'instances': 4, 'groups': 1}]",11373.0,custom-icon-spell_nature_corrosivebreath,41.0,Razzashi Cobra,NPC
+"[{'id': 5, 'instances': 2, 'groups': 1}]",166359.0,NPC,57.0,Zulian Tiger,NPC
