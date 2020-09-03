@@ -32,7 +32,7 @@ def google_connect():
     return service
 
 def fetch_sheet (service, name, data_range):
-    # Call the Sheets API
+    """Return data from a sheet"""
     sheet = service.spreadsheets()
     result = sheet.values().get(spreadsheetId = name,
                                 range = data_range).execute()
@@ -40,6 +40,7 @@ def fetch_sheet (service, name, data_range):
     return values
 
 def create_sheets (service, name):
+    """Create a sheet"""
     spreadsheet = {'properties': {'title': name}}
     spreadsheet = service.spreadsheets().create(body=spreadsheet,
                                     fields='spreadsheetId').execute()
@@ -47,6 +48,7 @@ def create_sheets (service, name):
     return id
 
 def write_sheet (service, name, data, data_range):
+    """Write to a sheet"""
     response_date = service.spreadsheets().values().update(
         spreadsheetId = name,
         valueInputOption = 'RAW',
@@ -56,3 +58,19 @@ def write_sheet (service, name, data, data_range):
             values = data.T.reset_index().T.values.tolist())
     ).execute()
     print('Sheet successfully Updated')
+
+
+def append_sheet (service, sheet_id, range_name, data):
+    """Append to a sheet"""
+    body = {'values': data}
+    result = service.spreadsheets().values().append(
+        spreadsheetId=sheet_id, range=range_name,
+    valueInputOption='RAW', body=body).execute()
+    print('{0} cells appended.'.format(result.get('updates').get('updatedCells')))
+
+
+def clear_sheet (service, sheet_id, data_range):
+    """Clear the sheet"""
+    request_body = {}
+    request = service.spreadsheets().values().clear(spreadsheetId=sheet_id, range=data_range, body=request_body)
+    response = request.execute()
