@@ -8,5 +8,8 @@ The Warcraft Classic API is still under development. Currently only overall info
 ### classic_warcraft_logs.ipynb
 Jupyter notebook making used of the wowlogs_lib.py module
 
+### google_sheets
+Module to connect with google sheets (Read/Write/Create/Clear/Append)
+
 ### Data folder
 Contains the csv files exported from the classic_warcaft_logs jupyter notebook
